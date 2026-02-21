@@ -170,6 +170,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-*Your Name*  
-GitHub: [@your-username](https://github.com/your-username)  
-LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+*Suyash Goyal*  
+GitHub: [tri-developer295](https://github.com/your-username)  
